@@ -167,31 +167,35 @@ LoginFrame.java
 
 ## 🔐 Login Screen
 
-Coming Soon...
+![Login](screenshot/login-screen.png)
 
 ---
 
-## 🏠 Dashboard
+## 🏠 Main Dashboard
 
-Coming Soon...
+![MainDashboard](screenshot/main-dashboard.png)
+
 
 ---
 
 ## 📊 Statistics
 
-Coming Soon...
+![Statistics](screenshot/statistic.png)
+
 
 ---
 
 ## 🏆 Student Ranking
 
-Coming Soon...
+![Ranking](screenshot/rank.png)
+
 
 ---
 
 ## 📄 Report Generation
 
-Coming Soon...
+![Report](screenshot/report.png)
+
 
 ---
 
