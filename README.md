@@ -2,6 +2,10 @@
 
 # 🎓 Student Management System
 
+<p align="center">
+<img src="banner.png" width="100%">
+</p>
+
 ![Java](https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=openjdk)
 ![Swing](https://img.shields.io/badge/Java-Swing-blue?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql)
@@ -9,136 +13,223 @@
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)
 ![JFreeChart](https://img.shields.io/badge/JFreeChart-Charts-success?style=for-the-badge)
 
-A modern **Java Swing Student Management System** designed to efficiently manage student records with a clean and professional user interface.
+A modern **Java Swing Student Management System** developed to manage student records efficiently with an attractive desktop interface.
+
+⭐ If you like this project, don't forget to **Star** this repository.
 
 </div>
 
 ---
 
-## 📖 Overview
+# 📑 Table of Contents
 
-This application allows users to manage student information including adding, updating, deleting, searching, ranking, and generating reports. It also provides graphical statistics using charts for better data visualization.
-
----
-
-## ✨ Features
-
-- 🔐 Secure Login System
-- ➕ Add Student
-- ✏️ Update Student
-- ❌ Delete Student
-- 🔍 Search Students
-- 📊 Statistics Dashboard
-- 🥇 Student Ranking
-- 📈 Pie Chart & Line Chart
-- 📄 Student Report Generation
-- 📥 Import Student Data
-- 📤 Export Student Data
-- 🗂 CSV File Support
-- 🎨 Modern Java Swing User Interface
+- 📖 Overview
+- ✨ Features
+- 🛠 Technologies
+- 📂 Project Structure
+- 🚀 Installation
+- 📷 Screenshots
+- 🔮 Future Improvements
+- 👨‍💻 Author
+- 📄 License
 
 ---
 
-## 🛠 Technologies Used
+# 📖 Overview
 
-- Java
-- Java Swing
-- MySQL
-- JDBC
-- JFreeChart
-- Git
-- GitHub
+The **Student Management System** is a desktop application developed using **Java Swing**.
+
+It enables users to perform all essential student management operations such as:
+
+- Student Registration
+- Searching
+- Updating
+- Deleting
+- Ranking
+- Statistics
+- Reports
+- Import & Export
+
+The application also provides graphical analysis using **JFreeChart**.
 
 ---
 
-## 📂 Project Structure
+# ✨ Features
+
+| Feature | Status |
+|---------|---------|
+| 🔐 Login System | ✅ |
+| ➕ Add Student | ✅ |
+| ✏ Update Student | ✅ |
+| ❌ Delete Student | ✅ |
+| 🔍 Search Student | ✅ |
+| 📊 Statistics Dashboard | ✅ |
+| 🏆 Student Ranking | ✅ |
+| 📈 Pie Chart | ✅ |
+| 📉 Line Chart | ✅ |
+| 📄 Report Generation | ✅ |
+| 📤 Export CSV | ✅ |
+| 📥 Import CSV | ✅ |
+
+---
+
+# 🛠 Technologies Used
+
+| Technology | Purpose |
+|------------|----------|
+| Java | Programming Language |
+| Java Swing | GUI Development |
+| JDBC | Database Connection |
+| MySQL | Database |
+| Git | Version Control |
+| GitHub | Repository Hosting |
+| JFreeChart | Charts & Statistics |
+
+---
+
+# 📂 Project Structure
 
 ```text
 Student Management System
 │
 ├── icons/
 ├── lib/
+│
 ├── DashboardFrame.java
 ├── LoginFrame.java
 ├── StudentGUI.java
 ├── StatisticsFrame.java
 ├── RankFrame.java
 ├── ReportCardFrame.java
+├── LineChartFrame.java
+├── ChartFrame.java
 ├── DBConnection.java
 ├── Student.java
 ├── Main.java
-└── README.md
+│
+├── README.md
+└── .gitignore
 ```
 
 ---
 
-## 🚀 Installation
+# 🚀 Installation
 
-1. Clone this repository
+### 1 Clone Repository
 
 ```bash
 git clone https://github.com/mamsperera/Student-Management-System.git
 ```
 
-2. Open the project in VS Code or your preferred Java IDE.
+---
 
-3. Add the required libraries.
+### 2 Open Project
+
+Open the project using:
+
+- VS Code
+- IntelliJ IDEA
+- Eclipse
+- NetBeans
+
+---
+
+### 3 Add Libraries
+
+Required libraries
 
 - mysql-connector-j
 - jfreechart
 
-4. Configure the MySQL database.
+---
 
-5. Run `LoginFrame.java`.
+### 4 Configure Database
+
+Update your MySQL credentials inside
+
+```
+DBConnection.java
+```
 
 ---
 
-## 📷 Screenshots
+### 5 Run Project
 
-### Login Screen
+Run
 
-Coming Soon...
-
-### Dashboard
-
-Coming Soon...
-
-### Statistics
-
-Coming Soon...
-
-### Student Ranking
-
-Coming Soon...
-
+```
+LoginFrame.java
+```
 
 ---
 
-## 🔮 Future Improvements
+# 📷 Screenshots
 
-- User Role Management
-- Attendance Management
-- PDF Report Export
-- Email Notifications
-- Student Photo Upload
+## 🔐 Login Screen
+
+Coming Soon...
 
 ---
 
-## 👨‍💻 Author
+## 🏠 Dashboard
 
-**Mams Perera**
+Coming Soon...
+
+---
+
+## 📊 Statistics
+
+Coming Soon...
+
+---
+
+## 🏆 Student Ranking
+
+Coming Soon...
+
+---
+
+## 📄 Report Generation
+
+Coming Soon...
+
+---
+
+# 🔮 Future Improvements
+
+- 👤 Multi User Login
+- 🧑‍🎓 Student Photo Upload
+- 📄 PDF Report Export
+- 📧 Email Notification
+- 📅 Attendance Management
+- 🌙 Dark Mode
+- ☁ Cloud Database
+- 🔐 Role Based Authentication
+
+---
+
+# 👨‍💻 Author
+
+## Mams Perera
 
 Software Engineering Undergraduate
 
-GitHub:
+GitHub
+
 https://github.com/mamsperera
 
 ---
 
-## 📄 License
+# 📄 License
 
-This project is developed for educational purposes.
+This project was developed for educational purposes.
 
 ---
 
-⭐ If you like this project, please give it a star.
+<div align="center">
+
+### ⭐ Star this repository if you found it useful!
+
+Made with ❤️ using Java Swing
+
+</div>
