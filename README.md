@@ -199,6 +199,20 @@ LoginFrame.java
 
 ---
 
+## 🏠 Dashboard
+
+![Dashboard](screenshot/dashboard.png)
+
+
+---
+
+## 📤 Export Student Data
+
+![Export Student Data](screenshot/export-import1.png)
+
+
+---
+
 # 🔮 Future Improvements
 
 - 👤 Multi User Login
