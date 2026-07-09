@@ -199,16 +199,16 @@ LoginFrame.java
 
 ---
 
-## 🏆 Student Ranking
+## 🏠 Dashboard
 
-![Ranking](screenshot/rank.png)
+![Dashboard](screenshot/dashboard.png)
 
 
 ---
 
-## 📄 Report Generation
+## 📤 Export
 
-![Report](screenshot/report.png)
+![Export](screenshot/export-import1.png)
 
 
 ---
